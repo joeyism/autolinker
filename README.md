@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 # If there exists an URL within the div of auto-linker, it gets automatically transformed into a link
+=======
+# Automatically generates link from URL within div
+>>>>>>> gh-pages
 
 [TODO - brief summary]
 
 ## Demo
+<<<<<<< HEAD
 http://Joeyism.github.io/auto-linker/
+=======
+http://Joeyism.github.io/angular-autolinker/
+>>>>>>> gh-pages
 
 ## Dependencies
 - required:
@@ -16,18 +24,31 @@ See `bower.json` and `index.html` in the `gh-pages` branch for a full list / mor
 ## Install
 1. download the files
 	1. Bower
+<<<<<<< HEAD
 		1. add `"auto-linker": "latest"` to your `bower.json` file then run `bower install` OR run `bower install auto-linker`
 2. include the files in your app
 	1. `nker.min.js`
 	2. `nker.less` OR `nker.min.css` OR `nker.css`
 3. include the module in angular (i.e. in `app.js`) - `Joeyism.auto-linker`
+=======
+		1. add `"angular-autolinker": "latest"` to your `bower.json` file then run `bower install` OR run `bower install angular-autolinker`
+2. include the files in your app
+	1. `autolinker.min.js`
+	2. `autolinker.less` OR `autolinker.min.css` OR `autolinker.css`
+3. include the module in angular (i.e. in `app.js`) - `Joeyism.angular-autolinker`
+>>>>>>> gh-pages
 
 See the `gh-pages` branch, files `bower.json` and `index.html` for a full example.
 
 
 ## Documentation
+<<<<<<< HEAD
 See the `nker.js` file top comments for usage examples and documentation
 https://github.com/Joeyism/auto-linker/blob/master/nker.js
+=======
+See the `autolinker.js` file top comments for usage examples and documentation
+https://github.com/Joeyism/angular-autolinker/blob/master/autolinker.js
+>>>>>>> gh-pages
 
 
 ## Development
@@ -38,7 +59,11 @@ https://github.com/Joeyism/auto-linker/blob/master/nker.js
 	3. git commit your changes
 2. copy over core files (.js and .css/.less for directives) to master branch
 	1. `git checkout master`
+<<<<<<< HEAD
 	2. `git checkout gh-pages nker.js nker.min.js nker.less nker.css nker.min.css`
+=======
+	2. `git checkout gh-pages autolinker.js autolinker.min.js autolinker.less autolinker.css autolinker.min.css`
+>>>>>>> gh-pages
 3. update README, CHANGELOG, bower.json, and do any other final polishing to prepare for publishing
 	1. git commit changes
 	2. git tag with the version number, i.e. `git tag v1.0.0`
@@ -48,4 +73,8 @@ https://github.com/Joeyism/auto-linker/blob/master/nker.js
 	3. `git checkout gh-pages`
 	4. `git push origin gh-pages`
 5. (optional) register bower component
+<<<<<<< HEAD
 	1. `bower register auto-linker [git repo url]`
+=======
+	1. `bower register angular-autolinker [git repo url]`
+>>>>>>> gh-pages

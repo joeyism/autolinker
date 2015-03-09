@@ -15,4 +15,9 @@ results
 
 node_modules
 
+<<<<<<< HEAD
 bower_components
+=======
+#Actually, need to track these for site to run on Github Pages..
+#bower_components
+>>>>>>> gh-pages
