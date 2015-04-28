@@ -4,7 +4,7 @@ A gentle wrapper that turns non-links into links
 
 ## Dependencies
 
-See `bower.json` and `index.html` in the `gh-pages` branch for a full list / more details
+* AngularJS
 
 ## Install
 1. download the files
