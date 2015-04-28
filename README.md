@@ -2,13 +2,7 @@
 
 A gentle wrapper that turns non-links into links
 
-## Demo
-
 ## Dependencies
-- required:
-	[TODO]
-- optional
-	[TODO]
 
 See `bower.json` and `index.html` in the `gh-pages` branch for a full list / more details
 
