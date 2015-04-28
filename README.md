@@ -1,6 +1,6 @@
 # Automatically generates link from URL within div
 
-[TODO - brief summary]
+A gentle wrapper that turns non-links into links
 
 ## Demo
 
