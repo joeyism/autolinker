@@ -41,7 +41,7 @@ angular.module('Joeyism.angular-autolinker', []).directive('joeyismAutolinker', 
                     var locationOfSpace = text.indexOf(" ",locationOfHttp);
                     var textAfter = "";
                     if (locationOfSpace < 0){
-                        locationOfSpace = text.length
+                        locationOfSpace = text.length;
                     } else {
                         textAfter = text.substring(locationOfSpace,text.length);
                     }
