@@ -20,8 +20,7 @@ See the `gh-pages` branch, files `bower.json` and `index.html` for a full exampl
 
 ## Documentation
 See the `autolinker.js` file top comments for usage examples and documentation
-https://github.com/Joeyism/angular-autolinker/blob/master/autolinker.js
-
+https://github.com/joeyism/autolinker/blob/master/autolinker.js
 
 ## Development
 
